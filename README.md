@@ -88,10 +88,6 @@ Deploy the app using **Netlify**:
 - **Community Leaderboards**: Reward users for exploring the most unique paths.
 - **Voice Commands**: Enable hands-free interaction with simulations.
 
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
